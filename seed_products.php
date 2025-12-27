@@ -47,7 +47,7 @@ $products = [
         "roast" => "Medium",
         "acid" => "Medium",
         "harga" => 92000,
-        "img" => "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&q=80" // Raw Green Beans drying
+        "img" => "assets/spilled-coffee.png" // Spilled coffee beans (User Request)
     ],
     [
         "nama" => "Java Preanger",

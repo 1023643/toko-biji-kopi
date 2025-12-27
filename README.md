@@ -2,13 +2,15 @@
 
 Aplikasi e-commerce sederhana untuk penjualan biji kopi nusantara, dibangun dengan PHP Native dan MySQL. Platform ini menghubungkan petani kopi (Seller) dengan penikmat kopi (Buyer).
 
-![Home Page](./assets/screenshots/home.png)
+![Home Page](assets/screenshots/home.png)
 
-## 📸 Galeri Aplikasi
+## 📸 Galeri Admin Panel
 
-| Login Page | Seller Dashboard |
-|:----------:|:----------------:|
-| ![Login](./assets/screenshots/login.png) | ![Dashboard](./assets/screenshots/seller_dashboard.png) |
+**Login Page**
+![Login Page](assets/screenshots/login.png)
+
+**Seller Dashboard**
+![Seller Dashboard](assets/screenshots/seller_dashboard.png)
 
 ## ✨ Fitur Utama
 

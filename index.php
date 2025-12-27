@@ -3,7 +3,7 @@ session_start();
 include 'koneksi.php';
 
 // Fetch Products from DB
-$query = "SELECT p.*, u.nama_lengkap as seller_name FROM products p JOIN users u ON p.seller_id = u.id ORDER BY p.id DESC";
+$query = "SELECT p.*, u.nama_lengkap as seller_name FROM products p JOIN users u ON p.seller_id = u.id ORDER BY p.id DESC LIMIT 10";
 $result = mysqli_query($koneksi, $query);
 
 if (!$result) {

@@ -39,7 +39,7 @@ if (!$result) {
         
         /* Hero */
         .hero {
-            background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1497935586351-b67a49e012bf?auto=format&fit=crop&q=80');
+            background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('assets/bg-hero.png');
             background-size: cover; background-position: center; color: white; text-align: center; padding: 100px 20px;
         }
         .hero h1 { font-size: 48px; margin-bottom: 10px; }

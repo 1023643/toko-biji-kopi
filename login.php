@@ -70,7 +70,7 @@ if (isset($_POST['login'])) {
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-image: url('assets/bg-coffee.jpg'); /* Optional bg if available */
+            background-image: url('assets/bg-hero.png'); /* Local image */
             background-size: cover;
             background-blend-mode: multiply;
             background-color: rgba(0,0,0,0.5);
